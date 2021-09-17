@@ -1,0 +1,14 @@
+# Created by cloud-init on instance boot automatically, do not edit.
+#
+BOOTPROTO=dhcp
+DEFROUTE=yes
+DEVICE=eth0
+HWADDR=96:00:00:d4:30:1c
+IPADDR6=2a01:4f8:1c1c:412d::1/64
+IPV6ADDR=2a01:4f8:1c1c:412d::1/64
+IPV6INIT=yes
+IPV6_DEFAULTGW=fe80::1%eth0
+ONBOOT=yes
+STARTMODE=auto
+TYPE=Ethernet
+USERCTL=no
